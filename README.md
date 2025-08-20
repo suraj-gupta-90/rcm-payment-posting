@@ -1,4 +1,4 @@
-# rcm-payment-posting
+# RCM-Payment-Posting
 Automates payment posting workflows in Revenue Cycle Management (RCM). Enhances accuracy, reduces manual entry, and streamlines healthcare billing processes.
 # 🏥 RCM Payment Posting Automation
 
